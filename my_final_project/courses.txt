@@ -1,0 +1,4 @@
+MATH101|Mathematics Fundamentals|Dr. Smith|3|Theory|ACTIVE
+ENG102|English Literature|Prof. Johnson|4|Theory|ACTIVE
+SCI103|General Science|Dr. Brown|3|Laboratory|ACTIVE
+HIST104|World History|Prof. Wilson|3|Theory|DELETED

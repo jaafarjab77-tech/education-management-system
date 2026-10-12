@@ -1,0 +1,3 @@
+John|Smith|2024-01-15|IT Department|123456789|555-1234|john@email.com|jsmith|pass123|ACTIVE|N/A
+Sarah|Johnson|2024-02-01|HR Department|987654321|555-5678|sarah@email.com|sjohnson|admin456|ACTIVE|N/A
+Mike|Brown|2024-01-20|Finance Department|456789123|555-9012|mike@email.com|mbrown|secure7899|ACTIVE|N/A
